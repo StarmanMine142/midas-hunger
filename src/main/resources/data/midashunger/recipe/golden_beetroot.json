@@ -10,10 +10,10 @@
         "item": "minecraft:gold_nugget"
       },
       "X": {
-        "item": "minecraft:cooked_chicken"
+        "item": "minecraft:beetroot"
       }
     },
     "result": {
-      "item": "midashunger:cooked_golden_chicken"
+      "id": "midashunger:golden_beetroot"
     }
   }

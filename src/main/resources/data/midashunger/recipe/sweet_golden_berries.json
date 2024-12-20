@@ -10,10 +10,10 @@
         "item": "minecraft:gold_nugget"
       },
       "X": {
-        "item": "minecraft:cooked_mutton"
+        "item": "minecraft:sweet_berries"
       }
     },
     "result": {
-      "item": "midashunger:cooked_golden_mutton"
+      "id": "midashunger:sweet_golden_berries"
     }
   }

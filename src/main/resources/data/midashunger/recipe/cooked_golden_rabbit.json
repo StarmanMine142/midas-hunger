@@ -10,10 +10,10 @@
         "item": "minecraft:gold_nugget"
       },
       "X": {
-        "item": "minecraft:dried_kelp"
+        "item": "minecraft:cooked_rabbit"
       }
     },
     "result": {
-      "item": "midashunger:dried_golden_kelp"
+      "id": "midashunger:cooked_golden_rabbit"
     }
   }
